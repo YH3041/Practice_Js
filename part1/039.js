@@ -1,6 +1,14 @@
-new Promise((resolve, reject) => {
-    let a = 5;
-    a > 3 ? resolve() : reject();
-})
-.then(() => { console.log("a는 3보다 크다.") })
-.catch(() => { console.log("a는 3보다 작다.") });
+var a = 10;
+console.log(a);
+
+function print() {
+    var b = 20;
+    if(true) {
+        var c = 30;
+
+    }
+    console.log(c);
+}
+
+print();
+console.log(b);
