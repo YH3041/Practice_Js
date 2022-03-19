@@ -9,6 +9,5 @@ function print() {
     }
     console.log(c);
 }
-
 print();
 console.log(b);
