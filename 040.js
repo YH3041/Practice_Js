@@ -10,3 +10,4 @@ let hello2 = function() {
 }
 
 hello2();
+
