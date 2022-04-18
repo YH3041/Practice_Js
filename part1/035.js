@@ -4,8 +4,8 @@ function checkNum(value) {
 }
 
 try {
-checkNum(100);
-checkNum("Wrong Type");
+    checkNum(100);
+    checkNum("Wrong Type");
 } catch(e) {
     console.log(`에러가 발생했습니다. >>>>> ${e}`);
 } finally {
