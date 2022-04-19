@@ -5,7 +5,6 @@ function print() {
     var b = 20;
     if(true) {
         var c = 30;
-
     }
     console.log(c);
 }
