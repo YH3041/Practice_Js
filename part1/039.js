@@ -7,7 +7,5 @@ function print() {
         var c = 30;
     }
 }
-
-
 print();
 console.log(b);
