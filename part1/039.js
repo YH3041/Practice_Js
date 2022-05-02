@@ -8,6 +8,5 @@ function print() {
     }
 }
 
-
 print();
 console.log(b);
